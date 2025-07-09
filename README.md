@@ -1,7 +1,8 @@
 # exampleapp
 
 ```mermaid
-participant User
+sequenceDiagram
+    participant User
     participant Browser
     participant Server
 
